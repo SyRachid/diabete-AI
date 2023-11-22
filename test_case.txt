@@ -1,0 +1,53 @@
+#TEST CASE 0
+gender                        Male
+age                           67.0
+hypertension                     0
+heart_disease                    1
+smoking_history        not current
+bmi                          27.32
+HbA1c_level                    6.5
+blood_glucose_level            200
+diabetes    
+                     1
+#TEST CASE 1
+gender                    Male
+age                       50.0
+hypertension                 1
+heart_disease                0
+smoking_history        current
+bmi                      27.32
+HbA1c_level                5.7
+blood_glucose_level        260
+diabetes    
+                 1
+#TEST CASE 2
+gender                  Female
+age                       36.0
+hypertension                 0
+heart_disease                0
+smoking_history        current
+bmi                      23.45
+HbA1c_level                5.0
+blood_glucose_level        155
+diabetes                     0
+
+#TEST CASE 3
+gender                    Male
+age                       76.0
+hypertension                 1
+heart_disease                1
+smoking_history        current
+bmi                      20.14
+HbA1c_level                4.8
+blood_glucose_level        155
+diabetes                     0
+
+gender                 Female
+age                      20.0
+hypertension                0
+heart_disease               0
+smoking_history         never
+bmi                     27.32
+HbA1c_level               6.6
+blood_glucose_level        85
+diabetes                    0

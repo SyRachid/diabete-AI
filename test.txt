@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Modèle de Prédiction</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+        }
+        header {
+            background-color: #333;
+            padding: 20px;
+            color: #fff;
+        }
+        nav ul {
+            list-style-type: none;
+            margin: 0;
+            padding: 0;
+        }
+        nav ul li {
+            display: inline;
+            margin-right: 10px;
+        }
+        nav ul li a {
+            color: #fff;
+            text-decoration: none;
+        }
+        h1 {
+            margin-top: 40px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <nav>
+            <ul>
+                <li><a href="/">Accueil</a></li>
+                <li><a href="/prediction">Prédiction</a></li>
+                <li><a href="/apropos">À Propos</a></li>
+                <!-- Ajoutez d'autres liens de menu au besoin -->
+            </ul>
+        </nav>
+    </header>
+
+    <h1>Bienvenue sur le Modèle de Prédiction</h1>
+
+    <div>
+        <!-- Contenu principal de votre page -->
+    </div>
+</body>
+</html>
